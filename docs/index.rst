@@ -19,8 +19,5 @@ Educe Academy cung cấp các khóa đào tạo chuyên sâu dành cho nhân s�
 
    quickstart
    attending
-
-Liên kết nhanh
-==============
-
-* :ref:`quickstart`
+   teaching
+   editing

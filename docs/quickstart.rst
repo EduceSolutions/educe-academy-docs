@@ -5,8 +5,8 @@ Hướng dẫn bắt đầu nhanh
 
 Để bắt đầu sử dụng Educe Academy, bạn chỉ cần thực hiện những bước đơn giản sau.
 
-1. Truy cập trang web của `Educe Academy <https://educe.academy/portal/>`_;
-2. Đăng nhập tài khoản Educe Academy. Bạn có thể sử dụng tài khoản sẵn có, hoặc đăng nhập bằng Google và Facebook;
+1. Truy cập trang web của `Educe Academy <https://educe.academy/portal/>`_.
+2. Đăng nhập tài khoản Educe Academy. Bạn có thể sử dụng tài khoản sẵn có, hoặc đăng nhập bằng Google và Facebook.
 
 .. image:: quickstart/login2.png
    :scale: 50%
@@ -21,4 +21,12 @@ Hướng dẫn bắt đầu nhanh
 .. image:: quickstart/mycourses.png
    :scale: 40%
 
-5. Tận hưởng các khoá học phong phú của Educe Academy.
+5. Trong quá trình tham gia khoá học, nếu bạn có thắc mắc về cách sử dụng trang web, bạn có thể sử dụng nút Trợ giúp bên cạnh.
+
+.. image:: quickstart/help-button.png
+
+6. Khi có những thắc mắc về kỹ thuật hay về trang web Educe Academy, bạn có thể trò chuyện trực tiếp với chúng tôi qua hệ thống live chat.
+
+.. image:: quickstart/livechat.png
+
+Chúc bạn có một trải nghiệm học tập hứng thú và hiệu quả!
