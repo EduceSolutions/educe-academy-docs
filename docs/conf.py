@@ -81,7 +81,10 @@ html_theme = 'sphinx_rtd_theme'
 # documentation.
 #
 # html_theme_options = {}
-html_theme_options = {'body_min_width': '300px'}
+html_theme_options = {
+    'body_min_width': '300px',
+    'style_nav_header_background': '#a4cc39'
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -172,3 +175,6 @@ epub_title = project
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
+
+def setup(app):
+    app.add_stylesheet('css/custom.css')
