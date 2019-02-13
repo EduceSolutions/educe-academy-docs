@@ -5,6 +5,14 @@
 <title>Hello World!</title>
 </head>
 <body>
-<h1>Hello World!</h1>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js"></script>
+<script>
+const loader = function() {
+    window.require(['educebundle.js'], function(bundle) {
+        bundle.loader();
+    });
+}
+window.addEventListener('load', loader);
+</script>
 </body>
 </html>
