@@ -83,7 +83,9 @@ html_theme = 'sphinx_rtd_theme'
 # html_theme_options = {}
 html_theme_options = {
     'body_min_width': '300px',
-    'style_nav_header_background': '#a4cc39'
+    'style_nav_header_background': '#a4cc39',
+    'display_version': False,
+    'display_github': False
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
