@@ -101,6 +101,8 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+html_copy_source = False
+
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
