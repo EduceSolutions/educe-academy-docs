@@ -6,6 +6,8 @@ Hướng dẫn cho giáo viên
 .. contents:: Nội dung
    :local:
 
+.. _teaching-enrolling:
+
 Đăng ký môn học
 ---------------
 
