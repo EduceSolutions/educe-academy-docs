@@ -21,9 +21,11 @@ Hướng dẫn bắt đầu nhanh
 5. Trong quá trình tham gia khoá học, nếu bạn có thắc mắc về cách sử dụng trang web, bạn có thể sử dụng nút Trợ giúp bên cạnh.
 
 .. image:: quickstart/help-button.png
+   :align: center
 
 6. Khi có những thắc mắc về kỹ thuật hay về trang web Educe Academy, bạn có thể trò chuyện trực tiếp với chúng tôi qua hệ thống live chat.
 
 .. image:: quickstart/livechat.png
+   :align: center
 
 Chúc bạn có một trải nghiệm học tập hứng thú và hiệu quả!
