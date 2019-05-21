@@ -11,7 +11,12 @@ Hướng dẫn tham gia khoá General English for MIE Students
 
 Để bắt đầu sử dụng Educe Academy, bạn chỉ cần thực hiện những bước đơn giản sau.
 
-1. Truy cập trang web của `Educe Academy <https://educe.academy/portal/>`_.
+1. Truy cập trang web của |educe_academy|.
+
+.. |educe_academy| raw:: html
+
+   <a href="https://educe.academy/portal/" target="_blank">Educe Academy</a>
+
 2. Đăng nhập tài khoản Educe Academy. Bạn có thể sử dụng tài khoản sẵn có, hoặc đăng nhập bằng Google và Microsoft.
 
 .. image:: quickstart/login-auth0.png
@@ -41,7 +46,11 @@ Truy cập khoá học
 
 Để vào được khoá học, hãy đăng nhập vào Educe Academy và truy cập khoá học theo link sau:
 
-`General English for MIE Students <https://educe.academy/portal/course/view.php?id=15>`_
+|mie_course|
+
+.. |mie_course| raw:: html
+
+   <a href="https://educe.academy/portal/course/view.php?id=15" target="_blank">General English for MIE Students</a>
 
 Sau khi vào trang web của khoá học, hãy bắt đầu học bằng cách click vào đường link **Enrol me**:
 
@@ -50,4 +59,8 @@ Sau khi vào trang web của khoá học, hãy bắt đầu học bằng cách c
 Hướng dẫn người học
 -------------------
 
-Để biết thêm thông tin về khoá học, vui lòng truy cập tài liệu `Hướng dẫn người học <https://educe.academy/portal/mod/page/view.php?id=370>`_.
+Để biết thêm thông tin về khoá học, vui lòng truy cập tài liệu |learners_guide|.
+
+.. |learners_guide| raw:: html
+
+   <a href="https://educe.academy/portal/mod/page/view.php?id=370" target="_blank">Hướng dẫn người học</a>
